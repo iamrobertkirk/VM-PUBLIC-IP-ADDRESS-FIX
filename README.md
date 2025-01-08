@@ -23,6 +23,7 @@ This tutorial shows the process of Creating A Public IP when there is no IP for 
 - Also 3
 - Also 4
 - Also 5
+- Also 6
 
 <h2>Configuration Steps</h2>
 
