@@ -26,7 +26,8 @@ This tutorial shows the process of Creating A Public IP when there is no IP for 
 
 <h2>Configuration Steps</h2>
 
-![image](https://github.com/user-attachments/assets/0f197e65-e3dd-44bc-a917-11ab05f68e3d)
+![image](https://github.com/user-attachments/assets/16cfbd08-fd03-488b-8285-e1df8c9cb31a)
+
 
 
 <p>
@@ -40,7 +41,8 @@ Click on "ipConfig1" to proceed. Now, on the IP configuration page, you'll see o
 
 <p>
   
-![image](https://github.com/user-attachments/assets/5bb4b623-f3f1-4ce6-81be-dd2d90d266a4)
+![image](https://github.com/user-attachments/assets/e3aa3087-b371-4a5a-9f8f-e3e99f28d664)
+
 
 </p>
 <p>
@@ -52,23 +54,29 @@ In step two, after going to Network Settings and selecting 'Configure' next to P
 
 <p>
 
-![image](https://github.com/user-attachments/assets/46e91af7-e986-4ba2-89d1-56a88769baa3)
+![image](https://github.com/user-attachments/assets/9bc29d98-f135-466d-a42d-316e028ea8a7)
 
-</p>
+
+
 <p>
 After clicking 'ipconfig1', a tab opens to edit IP settings. Click 'Associate' under Public IP address. Simple!
 <br />
 
-![image](https://github.com/user-attachments/assets/8ef3c9cf-77a1-45e1-afce-1b8530b25efe)
+![image](https://github.com/user-attachments/assets/ea1b7e90-452b-40b3-9e35-b11b28706828)
+
 
 
 In step four, after selecting 'ipconfig1', choose to create a Public IP. Click the tab next to 'Name,' select the first name that appears, and then press OK. Easy as that!
 
-![image](https://github.com/user-attachments/assets/09136e28-a2bf-4666-b76e-b8eea04a4419)
+
+![image](https://github.com/user-attachments/assets/b26bd250-77a7-48ec-bb99-67ebd737b806)
+
 
 Once you've double-checked everything, click 'Save' to ensure all your settings are applied. That locks in your configuration. You're all set!
 
-![image](https://github.com/user-attachments/assets/0be8f487-e59a-4651-a063-72a57e2e5744)
+
+![image](https://github.com/user-attachments/assets/d9b69bd3-164d-445a-ba9a-e8e6f90700f7)
+
 
 For step six, just wait a few minutes for your Public IP and Virtual Machine to update. Once done, you should be good to go!
 
