@@ -16,7 +16,7 @@ This tutorial shows the process of Creating A Public IP when there is no IP for 
 
 - Windows 11 Pro (21H2)
 
-
+<h2>Post-Install Configuration Objectives</h2>
 
 - 6 Steps to complete objective
 
